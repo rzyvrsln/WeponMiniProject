@@ -1,0 +1,15 @@
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\bin\Debug\net6.0\InClassroom.exe
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\bin\Debug\net6.0\InClassroom.deps.json
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\bin\Debug\net6.0\InClassroom.runtimeconfig.json
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\bin\Debug\net6.0\InClassroom.dll
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\bin\Debug\net6.0\InClassroom.pdb
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.csproj.AssemblyReference.cache
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.AssemblyInfoInputs.cache
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.AssemblyInfo.cs
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.dll
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\refint\InClassroom.dll
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.pdb
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\InClassroom.genruntimeconfig.cache
+C:\Users\ca.r215.06\Desktop\InClassroom\InClassroom\obj\Debug\net6.0\ref\InClassroom.dll
